@@ -15,4 +15,24 @@ The EPROM I use is the nice ceramic package 27C040. Very old school look and fee
  so you can get a bunch of them in a storage container and switch the EPROM out from the cartridge as you wish. For this reason I reccomend putting the EPROM in a socket.
  Make sure to use a quality chip socket as I've found the connections to be very sensitive to the Gameboy. A quality socket will remove all worry about that.
  
+ **Discrete Logic**
  
+ You'll need 5 seperate 74XX logic chips to replicate the bank switching of an MBC1.
+ 
+ 74HC32 - Quad 2 input OR Gate
+ 
+ 74HC27 - 3 Input NOR Gate
+ 
+ 74HC174 - Hex D Type Flip Flop
+ 
+ 74HC08 - Quad 2 Input AND Gate
+ 
+ 74HC00 - Quad 2 Input NAND Gate
+ 
+ Make sure to get really nice solder joints when putting these on. I've seen perfect looking joints that do no make connection. Any problems when first trying out the cartridge, reflow all the 74XX chip legs.
+ 
+ I haven't put any local filtering for the logic as mostly there isn't room and I've seen no need for it. There is no save function so a game crash will ruin your progress but not ruin a save. Maybe it's needed, I don't know, so there is a single bypass capacitor up by the EPROM. I personally haven't populated it.
+ 
+ **Compatability**
+ 
+ Every single MBC1 based game under 512KB that doesn't require saving works perfectly. Well that is the theory, but I've tried a bunch of games and they all work great. This is great for early games from the Gameboys life. Mostly they didn't have a save function back then and you just remembered your high scores. Look in the COMPAT file for games I have tested myself. 
