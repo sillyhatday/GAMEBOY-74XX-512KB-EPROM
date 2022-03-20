@@ -9,11 +9,15 @@ as far as I can see, but they are available across eBay and Aliexpress.
 The downside of this design is that EPROMs are erased in a UV eraser and programmed in a dedicated programmer. This is a lot less convienient for most people versus something like the GBxCart RW.
 The EPROM also does not fit into the cartridge shell, sticking out from the top of the cartridge. I quite like the way the EPROM sticks out from the top of the cartridge, it has a cyberpunk or prototype look to it.
 
+![Gameboy 64KB Cart Discrete Logic Fixed Rev2](https://user-images.githubusercontent.com/65309612/159173814-3274f692-91a3-4e10-b74b-277c6da2a02e.jpg)
+
+![Gameboy 64KB Cart Discrete Logic Fixed Rev2 2](https://user-images.githubusercontent.com/65309612/159173810-06d68e12-403d-42e3-b784-98f0ae64b467.jpg)
+
 **EPROM**
 
 The EPROM I use is the nice ceramic package 27C040. Very old school look and feel. It is certainly in like with the look and technology of the Gameboy. They are not cheap but also not expensive,
  so you can get a bunch of them in a storage container and switch the EPROM out from the cartridge as you wish. For this reason I reccomend putting the EPROM in a socket.
- Make sure to use a quality chip socket as I've found the connections to be very sensitive to the Gameboy. A quality socket will remove all worry about that.
+ Make sure to use a quality chip socket as I've found the connections to be very sensitive to the Gameboy. A quality socket will remove all worry about that. Also remember when soldering the socket to trim the pins short before soldering. You will need to do this to keep the back of the PCB flat against the back of the cartridge. It's not ideal but thats the nature of using through hole components where you should be using surface mount.
  
  **Discrete Logic**
  
@@ -35,4 +39,4 @@ The EPROM I use is the nice ceramic package 27C040. Very old school look and fee
  
  **Compatability**
  
- Every single MBC1 based game under 512KB that doesn't require saving works perfectly. Well that is the theory, but I've tried a bunch of games and they all work great. This is great for early games from the Gameboys life. Mostly they didn't have a save function back then and you just remembered your high scores. Look in the COMPAT file for games I have tested myself. 
+ Every single MBC1 based game under 512KB that doesn't require saving works perfectly. Well that is the theory, but I've tried a bunch of games and they all work great. This is great for early games from the Gameboys life. Mostly they didn't have a save function back then, so you just remembered your high scores. Look in the COMPAT file for games I have tested myself. 
