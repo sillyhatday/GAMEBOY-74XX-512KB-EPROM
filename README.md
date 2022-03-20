@@ -13,6 +13,10 @@ The EPROM also does not fit into the cartridge shell, sticking out from the top 
 
 ![Gameboy 64KB Cart Discrete Logic Fixed Rev2 2](https://user-images.githubusercontent.com/65309612/159173810-06d68e12-403d-42e3-b784-98f0ae64b467.jpg)
 
+![20220320_170941](https://user-images.githubusercontent.com/65309612/159174271-2f9397bc-7ba9-4a61-b065-b02da97ae36b.jpg)
+
+![20220320_171006](https://user-images.githubusercontent.com/65309612/159174272-d728ff23-48e2-43b2-8b0d-59ab68888de6.jpg)
+
 **EPROM**
 
 The EPROM I use is the nice ceramic package 27C040. Very old school look and feel. It is certainly in like with the look and technology of the Gameboy. They are not cheap but also not expensive,
