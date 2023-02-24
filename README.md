@@ -1,6 +1,8 @@
 # GAMEBOY-FLASHCART-MBC1-DISCRETE
 A Gameboy flashcart using discrete logic as a MBC1 replacement
 
+Using footprints from https://github.com/HDR Be sure to check out their designs as well.
+
 This a tested working flashcart design that was created from a schematic found on the internet. This schematic has been floating around the web since the 90's but I've 
 only seen one person try to make a cartridge using that design. This is done with surface mount 74XX series logic that is new and current. I made this to suit want I wanted
 as I came across a pile of 64KB EPROMs for free and made a cartridge to use them. Well this is basically an evolution of that using 512KB EPROMs. The EPROMs are no longer made 
