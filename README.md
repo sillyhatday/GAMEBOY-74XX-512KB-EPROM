@@ -11,9 +11,9 @@ as far as I can see, but they are available across eBay and Aliexpress.
 The downside of this design is that EPROMs are erased in a UV eraser and programmed in a dedicated programmer. This is a lot less convienient for most people versus something like the GBxCart RW.
 The EPROM also does not fit into the cartridge shell, sticking out from the top of the cartridge. I quite like the way the EPROM sticks out from the top of the cartridge, it has a cyberpunk or prototype look to it.
 
-![Gameboy 64KB Cart Discrete Logic Fixed Rev2](https://user-images.githubusercontent.com/65309612/159173814-3274f692-91a3-4e10-b74b-277c6da2a02e.jpg)
+![Gameboy 512KB Cart Discrete Logic Front](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC1-DISCRETE/assets/65309612/546adfbd-cc16-4f19-87f0-4a89dede614f)
 
-![Gameboy 64KB Cart Discrete Logic Fixed Rev2 2](https://user-images.githubusercontent.com/65309612/159173810-06d68e12-403d-42e3-b784-98f0ae64b467.jpg)
+![Gameboy 512KB Cart Discrete Logic Back](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC1-DISCRETE/assets/65309612/b29cd008-b40e-429b-b887-79f1b87ca9d7)
 
 ![20220320_170941](https://user-images.githubusercontent.com/65309612/159174271-2f9397bc-7ba9-4a61-b065-b02da97ae36b.jpg)
 
@@ -28,16 +28,15 @@ The EPROM I use is the nice ceramic package 27C040. Very old school look and fee
  **Discrete Logic**
  
  You'll need 5 seperate 74XX logic chips to replicate the bank switching of an MBC1.
- 
- 74HC32 - Quad 2 input OR Gate
- 
- 74HC27 - 3 Input NOR Gate
- 
- 74HC174 - Hex D Type Flip Flop
- 
- 74HC08 - Quad 2 Input AND Gate
- 
- 74HC00 - Quad 2 Input NAND Gate
+ | Part No | Description | Amount |
+ | --- | --- | --- |
+ | 74HC32 | Quad 2 input OR Gate | 1 |
+ | 74HC27 | 3 Input NOR Gate | 1 |
+ | 74HC174 | Hex D Type Flip Flop | 1 |
+ | 74HC08 | Quad 2 Input AND Gate | 1 |
+ | 74HC00 | Quad 2 Input NAND Gate| 1 |
+ | 32 DIP SKT | EPROM Socket | 1 |
+ | 100nf Cap | 0603 | 1 |
  
  Make sure to get really nice solder joints when putting these on. I've seen perfect looking joints that do no make connection. Any problems when first trying out the cartridge, reflow all the 74XX chip legs.
  
@@ -45,4 +44,27 @@ The EPROM I use is the nice ceramic package 27C040. Very old school look and fee
  
  **Compatability**
  
- Every single MBC1 based game under 512KB that doesn't require saving works perfectly. Well that is the theory, but I've tried a bunch of games and they all work great. This is great for early games from the Gameboys life. Mostly they didn't have a save function back then, so you just remembered your high scores. Look in the COMPAT file for games I have tested myself. 
+ Every single MBC1 based game under 512KB that doesn't require saving works perfectly. Well that is the theory, but I've tried a bunch of games and they all work great. This is great for early games from the Gameboys life. Mostly they didn't have a save function back then, so you just remembered your high scores. Look in the COMPAT file for games I have tested myself.
+ 
+ **Copies**
+ 
+ I've seen that China has copied this design. They seem to be for sale on TaoBao. Look out for these.
+ 
+ The boards look the same but they have some custom engraved EEPROMs to go with it. Those EPROMs should work just fine with this design if you wanted to have an extra cool touch.
+ 
+ ![MBC1 Copy](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC1-DISCRETE/assets/65309612/e559b3f1-7cf5-447c-8597-5a02b1b501f9)
+![MBC1 Copy Chips](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC1-DISCRETE/assets/65309612/38d28594-3082-4a77-adda-fae669a4a791)
+
+**Also**
+
+Check out these links:
+
+https://ko-fi.com/jamo_mods
+
+https://discord.gg/moddedgameboyclub
+
+https://ko-fi.com/sillyhatday
+
+https://github.com/lesserkuma
+
+https://github.com/HDR
