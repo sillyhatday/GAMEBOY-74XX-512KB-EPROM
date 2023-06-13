@@ -11,6 +11,8 @@ as far as I can see, but they are available across eBay and Aliexpress.
 The downside of this design is that EPROMs are erased in a UV eraser and programmed in a dedicated programmer. This is a lot less convienient for most people versus something like the GBxCart RW.
 The EPROM also does not fit into the cartridge shell, sticking out from the top of the cartridge. I quite like the way the EPROM sticks out from the top of the cartridge, it has a cyberpunk or prototype look to it.
 
+Due to Chinese copies, I added "original" to the back of my cart, just so you can feel smug about having the original design.
+
 ![Gameboy 512KB Cart Discrete Logic Front](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC1-DISCRETE/assets/65309612/546adfbd-cc16-4f19-87f0-4a89dede614f)
 
 ![Gameboy 512KB Cart Discrete Logic Back](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC1-DISCRETE/assets/65309612/b29cd008-b40e-429b-b887-79f1b87ca9d7)
@@ -48,7 +50,7 @@ The EPROM I use is the nice ceramic package 27C040. Very old school look and fee
  
  **Copies**
  
- I've seen that China has copied this design. They seem to be for sale on TaoBao. Look out for these.
+ I've seen that China has copied this design. They seem to be for sale on TaoBao. Look out for these. They are likely based on my previous design which did include some mistakes!
  
  The boards look the same but they have some custom engraved EEPROMs to go with it. Those EPROMs should work just fine with this design if you wanted to have an extra cool touch.
  
