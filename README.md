@@ -17,9 +17,10 @@ Due to Chinese copies, I added "original" to the back of my cart, just so you ca
 
 ![Gameboy 512KB Cart Discrete Logic Back](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC1-DISCRETE/assets/65309612/b29cd008-b40e-429b-b887-79f1b87ca9d7)
 
-![20220320_170941](https://user-images.githubusercontent.com/65309612/159174271-2f9397bc-7ba9-4a61-b065-b02da97ae36b.jpg)
+![IMG_5681](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC1-DISCRETE/assets/65309612/fdd5c244-bbce-4291-b9f8-f7a260b6721f)
+![IMG_5637](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC1-DISCRETE/assets/65309612/de99a0bb-a1df-40f3-9fa1-70af790dc962)
 
-![20220320_171006](https://user-images.githubusercontent.com/65309612/159174272-d728ff23-48e2-43b2-8b0d-59ab68888de6.jpg)
+Final Version. One for tinkering and one finished Trip World cart!
 
 **EPROM**
 
