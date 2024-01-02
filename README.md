@@ -13,6 +13,16 @@ The EPROM also does not fit into the cartridge shell, sticking out from the top 
 
 Due to Chinese copies, I added "original" to the back of my cart, just so you can feel smug about having the original design.
 
+## Game compatibility:
+
+Put simply if you want to run early Gameboy games this is the cartridge you need. It’s not the most practical of carts but it’s one of my earlier ideas and wanted to keep it. I got a bunch of EPROM for free so I put them to use. This lacks any save ability but can run the MBC1 games up to 512KB. I will not give this a compatibility rating as it is impractical for most people.
+
+The MBC1 can use 32KB to 2MB of game storage and 8KB to 32KB of save storage. Very few games used 2MB storage. Pokemon generation 1 in Japan is on the MBC1, fitting the whole game into 512KB. This cart will not run those games.
+
+Unless you want to source obsolete ceramic EPROM or EEPROM that are even rarer, you can just run most games this uses on an MBC5 2MB cart instead. I am working on a version that uses a more regular flash chip that will make it rewritable in the usual Gameboy cart programmers
+
+## Photos:
+
 ![Gameboy 512KB Cart Discrete Logic Front](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC1-DISCRETE/assets/65309612/546adfbd-cc16-4f19-87f0-4a89dede614f)
 
 ![Gameboy 512KB Cart Discrete Logic Back](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC1-DISCRETE/assets/65309612/b29cd008-b40e-429b-b887-79f1b87ca9d7)
