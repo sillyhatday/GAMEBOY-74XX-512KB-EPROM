@@ -1,4 +1,4 @@
-# GAMEBOY-FLASHCART-MBC1-DISCRETE
+# GAMEBOY-74XX-512KB-EPROM
 A Gameboy flashcart using discrete logic as a MBC1 replacement
 
 Using footprints from https://github.com/HDR Be sure to check out their designs as well.
