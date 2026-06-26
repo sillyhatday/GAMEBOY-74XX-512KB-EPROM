@@ -27,18 +27,18 @@ Some favourites of mine to run on here are, the Kirby games, Trip world & Money 
 
 ## Photos:
 
-![Gameboy 512KB Cart Discrete Logic Front](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC1-DISCRETE/assets/65309612/546adfbd-cc16-4f19-87f0-4a89dede614f)
+>[!TIP]
+>Trip world cart made in collab with RainDX
 
-![Gameboy 512KB Cart Discrete Logic Back](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC1-DISCRETE/assets/65309612/b29cd008-b40e-429b-b887-79f1b87ca9d7)
-
-![IMG_5681](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC1-DISCRETE/assets/65309612/fdd5c244-bbce-4291-b9f8-f7a260b6721f)
-![IMG_5637](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC1-DISCRETE/assets/65309612/de99a0bb-a1df-40f3-9fa1-70af790dc962)
+<img width="500" height="333" alt="mbc1tripworld" src="https://github.com/user-attachments/assets/12ede6a1-414d-42ca-ab6f-a48405845a33" />
+<img width="500" height="333" alt="mbc1moneyidolexchanger" src="https://github.com/user-attachments/assets/9eeb5b57-3bd2-43ed-8fa3-9b42e366b043" />
+<img width="500" height="508" alt="mbc1kicadrender" src="https://github.com/user-attachments/assets/7e633a03-44c4-4887-8f54-46d6b89ee1d1" />
 
 Final Version. One for tinkering and one finished Trip World cart!
  
- **Discrete Logic**
+## Parts List
 
- >[!NOTE]
+>[!NOTE]
 > You'll need 5 seperate 74XX logic chips to replicate the bank switching of an MBC1.
  
  | Part No | Description | Amount |
@@ -52,7 +52,7 @@ Final Version. One for tinkering and one finished Trip World cart!
  | 100nf Cap | 0603 | 1 |
 
 >[!TIP]
->Make sure your solder joints are of high quality. I've seen perfect looking joints that do no make connection.
+>Make sure your solder joints are of high quality to avoid problems.
  
 I haven't put any local filtering for the logic as mostly there isn't room and I've seen no need for it. There is no save function so a game crash will ruin your progress but not ruin a save. Maybe it's needed, I don't know, so there is a single bypass capacitor up by the EPROM. I personally haven't populated it.
  
@@ -65,19 +65,20 @@ Someone copied my design on TaoBao. They are likely based on my previous design 
  
 The boards look the same but they have some custom engraved EEPROMs to go with it. Those EPROMs should work just fine with this design if you wanted to have an extra cool touch.
  
-![MBC1 Copy](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC1-DISCRETE/assets/65309612/e559b3f1-7cf5-447c-8597-5a02b1b501f9)
-![MBC1 Copy Chips](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC1-DISCRETE/assets/65309612/38d28594-3082-4a77-adda-fae669a4a791)
+<img width="412" height="676" alt="mbc1taobaocopy1" src="https://github.com/user-attachments/assets/5561ce09-a2b7-4a77-9e0d-1a002c50874c" />
+<img width="500" height="328" alt="mbc1taobaocopy2" src="https://github.com/user-attachments/assets/9d778c42-94c4-43c1-b50d-f52b8bcbf7dd" />
 
 ## Links
 
 🛍️ Inside Gadgets Shop: https://shop.insidegadgets.com <br>
 📎 Inside Gadgets GitHub: https://github.com/insidegadgets <br>
 📷 Inside Gadgets Insta: https://www.instagram.com/inside.gadgets <br>
+🎥 RainDX Insta: https://www.instagram.com/rain__dx <br>
 🖇️ Bytendo Mods GitHub: https://github.com/bytendomods <br>
 🐭 Bucket Mouse: https://github.com/Bucket-Mouse <br>
 🛒 Natalie Shop: https://nataliethenerd.com/ <br>
 🤓 Natalie GitHub: https://github.com/natalie-lang/natalie <br>
-☕Jamo KoFi: https://ko-fi.com/jamo_mods <br>
-📱Natalie Discord: https://discord.gg/moddedgameboyclub <br>
-🍵My KoFi: https://ko-fi.com/sillyhatday <br>
-😼Lesser Kuma: https://github.com/lesserkuma <br>
+☕ Jamo KoFi: https://ko-fi.com/jamo_mods <br>
+📱 Natalie Discord: https://discord.gg/moddedgameboyclub <br>
+🍵 My KoFi: https://ko-fi.com/sillyhatday <br>
+😼 Lesser Kuma: https://github.com/lesserkuma <br>
